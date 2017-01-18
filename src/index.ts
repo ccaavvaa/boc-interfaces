@@ -1,2 +1,2 @@
-import { IObjectStore } from './object-store';
-export { IObjectStore };
+import { IdType, IObjectStore } from './object-store';
+export { IdType, IObjectStore };
