@@ -17,5 +17,9 @@
     "gulp-tslint": "^7.0.1",
     "tslint": "^4.3.1",
     "typescript": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccaavvaa/boc-interfaces.git"
   }
 }
